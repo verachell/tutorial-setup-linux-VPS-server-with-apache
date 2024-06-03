@@ -6,7 +6,7 @@ This is a basic setup of a Linux server, explained step by step. This is geared 
 ## Disclaimer
 This is just a guide. As the license says, I am not responsible for any damages, security breaches, etc - it is up to YOU to ensure your server is set up appropriately and securely for YOUR purpose. 
 
-I have made a good faith effort to ensure sensible choices are made, but understand that this tutorial is just a starting point. The suggested settings in here may not be appropriate for your application.
+I have made a good faith effort to ensure sensible choices are made, but understand that this tutorial is just a starting point. The suggested defaults here may not be appropriate for your application.
 
 ## Trade-offs
 This guide is aimed for convenience and speed of setup, and I have traded that off against a bit of security. Specifically, I illustrate the use of the free and open source Webmin panel here. Webmin itself is not inherently insecure, but ANY additional software that is not strictly necessary could represent a potential security hole, whether present or future. However, for a beginner, I believe the trade-off is worth the convenience. 
