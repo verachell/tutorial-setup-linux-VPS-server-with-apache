@@ -3,6 +3,8 @@ a step by step tutorial of how to do a basic setup of a linux VPS server with ap
 
 This is a basic setup of a Linux server, explained step by step. This is geared towards complete beginners. Please read this page completely before moving on to the tutorial (in this repo's Wiki - link below)
 
+This tutorial will work for hosting 0, 1, or multiple domain names on a single server. That said, if you want SSL (which you presumably do), it's easiest if you have a domain name.
+
 ## Disclaimer
 This is just a guide. As the license says, I am not responsible for any damages, security breaches, etc from any security holes in the setup in this tutorial. It is up to YOU to ensure your server is set up appropriately and securely for YOUR purpose. 
 
