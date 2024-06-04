@@ -14,3 +14,6 @@ I have made a good faith effort to ensure sensible choices are made, but underst
 This guide is aimed for convenience and speed of setup, and I have traded that off against a bit of security. Specifically, I illustrate the use of the free and open source Webmin panel here. Webmin itself is not inherently insecure compared to any other admin panel, but ANY additional software that is not strictly necessary could represent a potential security hole, whether present or future. However, for a beginner, I believe the trade-off is worth the convenience. 
 
 If you are not comfortable with this, and if you have experience with linux, you might like to follow along this tutorial without Webmin and instead do the Webmin-dependent steps purely on the command line.
+
+## Start the tutorial
+The tutorial is at https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache/wiki on this repository's wiki page
