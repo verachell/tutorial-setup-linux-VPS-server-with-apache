@@ -16,4 +16,4 @@ This guide is aimed for convenience and speed of setup, and I have traded that o
 If you are not comfortable with this, and if you have experience with linux, you might like to follow along this tutorial without Webmin and instead do the Webmin-dependent steps purely on the command line.
 
 ## Start the tutorial
-The tutorial is at https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache/wiki on this repository's wiki page
+The tutorial is on this repository's wiki page at https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache/wiki
