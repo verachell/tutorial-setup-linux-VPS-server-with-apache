@@ -19,4 +19,4 @@ If you are not comfortable with this, and if you have experience with linux, you
 The tutorial is on this repository's wiki page at https://github.com/verachell/tutorial-setup-linux-VPS-server-with-apache/wiki
 
 ## If you run into problems
-I've covered troubleshooting in places where I think things could go wrong. That said, if you get stuck or if something is wrong, please raise an issue on the repo (preferably) or email me (I *think* my email address is visible to logged-in users?). I will do my best to help.
+I've covered troubleshooting in places where I think things could go wrong and I've tested this tutorial out on a brand-new install. That said, if you get stuck or if something is wrong, please raise an issue on the repo (preferably) or email me (I *think* my email address is visible to logged-in users?). I will do my best to help. If you get stuck, others might too, so raising an issue helps make this tutorial better for everyone.
