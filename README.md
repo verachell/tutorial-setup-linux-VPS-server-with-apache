@@ -1,5 +1,7 @@
 # tutorial-setup-linux-VPS-server-with-apache
-a step by step tutorial of how to do a basic setup of a linux VPS server with apache. For beginners
+a step by step tutorial of how to do a basic setup of a linux VPS server with namneservers and apache. For beginners
+
+WARNING: This is a fairly comprehensive tutorial, so it can take a while. Most of this is due to the email setup. If you do not need email, I recommend my other tutorial: Easy customizable Apache server setup on Ubuntu Linux VPS without email
 
 This is a basic setup of a Linux server, explained step by step. This is geared towards complete beginners. Please read this page completely before moving on to the tutorial (in this repo's Wiki - link below)
 
